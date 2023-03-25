@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Petru</h1>
 <h3 align="center">I make my ideas take shape</h3>
-<iframe align="right" src="https://giphy.com/embed/7Z49eulwv4aGY35RaD" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe align="right" src="https://giphy.com/embed/7Z49eulwv4aGY35RaD" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/BooleanCareers-transparent-7Z49eulwv4aGY35RaD">via GIPHY</a></p>">
 
 - 🌱 I’m currently learning **a lot...**
 
