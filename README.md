@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [to_My_PW](to_My_PW)
 
-- 📫 How to reach me **andreislavila15@gmail.com**
+- 📫 How to reach me **slavilapetru@gmail.com**
 
 - ⚡ Fun fact **I make people laugh**
 
